@@ -1,0 +1,8 @@
+{
+  "name": "lareact-glue",
+  "version": "1.0.0",
+  "description": "copy create-react-app build files to views and public folder",
+  "main": "index.js",
+  "author": "sluzzle <sluzzledude@gmail.com>",
+  "license": "MIT"
+}
